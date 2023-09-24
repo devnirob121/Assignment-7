@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Web Development",
+    "description": "Learn the basics of web development including HTML, CSS, and JavaScript. Get hands-on experience in building web applications.",
+    "thumbnail": "https://i.ibb.co/VQkvwyy/we-development.jpg",
+    "price": 49.99,
+    "credit": 6
+  },
+  {
+    "id": 2,
+    "title": "Python Programming for Beginners",
+    "description": "Start your journey in Python programming. Master the fundamentals and build your own applications.",
+    "thumbnail": "https://i.ibb.co/88L1tkV/python.jpg",
+    "price": 59.99,
+    "credit": 8
+  },
+  {
+    "id": 3,
+    "title": "Data Science Fundamentals",
+    "description": "Delve into the foundations of data science, covering statistics, data analysis, and visualization.",
+    "thumbnail": "https://i.ibb.co/6WPdZc5/data-science.jpg",
+    "price": 79.99,
+    "credit": 10
+  },
+  {
+    "id": 4,
+    "title": "UX/UI Design Principles",
+    "description": "Learn the key principles of user experience (UX) and user interface (UI) design for effective product design.",
+    "thumbnail": "https://i.ibb.co/yyghT2K/UXUI-Design.jpg",
+    "price": 69.99,
+    "credit": 7
+  },
+  {
+    "id": 5,
+    "title": "JavaScript Advanced Techniques",
+    "description": "Deepen your understanding of JavaScript with advanced concepts and techniques for powerful web applications.",
+    "thumbnail": "https://i.ibb.co/c1gKnhW/Java-Script-Advanced-Techniques.jpg",
+    "price": 89.99,
+    "credit": 9
+  },
+  {
+    "id": 6,
+    "title": "Mobile App Development with React Native",
+    "description": "Build mobile apps for iOS and Android using the popular React Native framework.",
+    "thumbnail": "https://i.ibb.co/Xp7TBF0/Mobile-App-Development-with-React-Native.jpg",
+    "price": 99.99,
+    "credit": 11
+  },
+  {
+    "id": 7,
+    "title": "Machine Learning Essentials",
+    "description": "Gain a fundamental understanding of machine learning algorithms and techniques for data-driven solutions.",
+    "thumbnail": "https://i.ibb.co/fr7jX5C/Machine-Learning-Essentials.jpg",
+    "price": 79.99,
+    "credit": 10
+  },
+  {
+    "id": 8,
+    "title": "Introduction to Graphic Design",
+    "description": "Learn the basics of graphic design using popular tools like Adobe Illustrator and Photoshop.",
+    "thumbnail": "https://i.ibb.co/LZM2RWq/Introduction-to-Graphic-Design.jpg",
+    "price": 59.99,
+    "credit": 8
+  },
+  {
+    "id": 9,
+    "title": "React.js Fundamentals",
+    "description": "Get started with React.js, a popular JavaScript library for building user interfaces.",
+    "thumbnail": "https://i.ibb.co/4pvJq3y/React-js-Fundamentals.png",
+    "price": 69.99,
+    "credit": 7
+  },
+  {
+    "id": 10,
+    "title": "Database Design and SQL Fundamentals",
+    "description": "Master the basics of database design and SQL querying for effective data management.",
+    "thumbnail": "https://i.ibb.co/3mP1mKJ/Database-Design-and-SQL-Fundamentals.webp",
+    "price": 69.99,
+    "credit": 7
+  }
+]
